@@ -1,4 +1,4 @@
 ## Stars-Devs
 
 * Mudanças feitas por mim:
-  - Responsividade para Tables e Celulares
+  - Responsividade para Tablets e Celulares
